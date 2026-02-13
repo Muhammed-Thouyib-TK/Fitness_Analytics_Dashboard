@@ -1,7 +1,6 @@
 # 💪 Practicing Data Visualization with Power BI: Fitness Analytics Dashboard
 
 An interactive **Power BI Fitness Analytics Dashboard** designed to transform manual fitness business reporting into an automated, data-driven, and visually insightful experience.  
-This project was created while **practicing data visualization** by following the lead of *The Developer* on YouTube — a valuable learning experience in combining **business intelligence**, **analytics**, and **storytelling**.
 
 ---
 
@@ -51,6 +50,3 @@ To convert manually tracked fitness data into a unified dashboard that provides:
 - **DAX (Data Analysis Expressions)**
 - **Data Cleaning & Modeling**
 - **Interactive Visuals & KPI Design**
-
-## 🙌 Acknowledgment
-This dashboard was developed by **following the lead of "The Developer"** on YouTube — an excellent resource for learning practical Power BI implementation and dashboard storytelling.
